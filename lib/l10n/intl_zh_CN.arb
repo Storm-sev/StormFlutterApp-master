@@ -1,0 +1,10 @@
+{
+  "title": "首页",
+  "login": "登录",
+  "language": "中文简体",
+  "username": "账号",
+  "pwd": "密码",
+  "hint_username": "输入账号",
+  "hint_pwd": "请输入密码",
+  "no_describe": "暂无简介"
+}

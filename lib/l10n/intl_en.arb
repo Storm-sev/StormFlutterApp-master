@@ -1,0 +1,10 @@
+{
+  "title": "homepage",
+  "login": "login",
+  "language": "English",
+  "username": "user name",
+  "pwd": "password",
+  "hint_username": "please input your username",
+  "hint_pwd": "please input your password",
+  "no_describe": "no describe"
+}
